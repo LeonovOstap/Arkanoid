@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arkanoid", "Arkanoid.vcxproj", "{5BA3760B-47CA-47DD-83EA-A434E44D5929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA3760B-47CA-47DD-83EA-A434E44D5929}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BA3760B-47CA-47DD-83EA-A434E44D5929}.Debug|x86.Build.0 = Debug|Win32
+		{5BA3760B-47CA-47DD-83EA-A434E44D5929}.Release|x86.ActiveCfg = Release|Win32
+		{5BA3760B-47CA-47DD-83EA-A434E44D5929}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C7BB91-E9CC-45CF-94EE-42958EC83D84}
+	EndGlobalSection
+EndGlobal
